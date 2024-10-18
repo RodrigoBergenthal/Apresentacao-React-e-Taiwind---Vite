@@ -1,8 +1,8 @@
-# React + Vite + Tailwind com animações
+# React + Vite + Tailwind CSS com animações
 
 # PUBLICADO NA VERCEL : https://rodrigobergenthal.vercel.app/
 
- # Portfólio React + Vite + Tailwind CSS
+
 
 Este é um projeto de portfólio pessoal criado utilizando React, Vite e Tailwind CSS. O objetivo deste projeto é mostrar minhas habilidades em desenvolvimento web moderno, incluindo a importação de ícones, animações e componentes bem estruturados.
 
