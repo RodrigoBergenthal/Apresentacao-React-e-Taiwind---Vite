@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Tailwind com animações
 
 # React + Vite PUBLICADO NA VERCEL : https://rodrigobergenthal.vercel.app/
 
