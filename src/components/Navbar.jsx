@@ -8,12 +8,11 @@ const Navbar = () => {
             <div className='space-x-6'>
                 <a href="#home"className='hover:text-red-400 '>Início</a>
                 <a href="#about"className='hover:text-red-400'>Sobre</a>
-                <a href="#services"className='hover:text-red-400'>Serviços</a>
-                <a href="#projects"className='hover:text-red-400'>Projetos</a>
+                <a href="#project"className='hover:text-red-400'>Projetos</a>
                 <a href="#contact"className='hover:text-red-400'>Contato</a>
-            </div>
-            <button className='bg-gradient-to-r from-red-800 to-red-400 text-white hidden 
-            md:inline transform transition-transform duration-300 hover:scale-150 px-4 py-2 rounded-full'>Contato</button>
+            </div >
+            <a href="#contact"><button className='bg-gradient-to-r from-red-800 to-red-400 text-white hidden 
+            md:inline transform transition-transform duration-300 hover:scale-150 px-4 py-2 rounded-full '>Contato</button></a>
         </div>
     </nav>
   )
