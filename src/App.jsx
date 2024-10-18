@@ -1,18 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
+import About from './components/about'
+import Hero from './components/Hero'
+import Navbar from './components/Navbar'
 
-import React from 'react';
+function App() {
 
-const App = () => {
   return (
     <div>
-      <h1>Meu Portifólio</h1>
-      <p>Aqui está um pouco sobre mim e alguns dos meus projetos.</p>
+        <Navbar />
+        <Hero />
+        <About />
     </div>
-  );
-};
+  )
+}
 
-export default App;
-
+export default App
