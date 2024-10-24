@@ -12,17 +12,17 @@ const Contact = () => {
             from-red-800 to-red-400v mb-4'>Vamos Conversar</h3>
             <p>Estou em busca de uma chance como Desenvolvedor e aberto a parcerias e programas de voluntariado</p>
             <div className='mb-4 mt-8'>
-                <FaEnvelope className='inline-block text-green-400 mr-2'></FaEnvelope>
+                <FaEnvelope className='inline-block text-red-400 mr-2'></FaEnvelope>
                 <a href="mailto:youremail@example.com" className='hover:underline'>
                     Rodrigo_bergenthal@live.com
                 </a>
             </div>
             <div className='mb-4'>
-                <FaPhone className='inline-block text-green-400 mr-2'></FaPhone>
+                <FaPhone className='inline-block text-red-400 mr-2'></FaPhone>
                 <span>51-993402428</span>
             </div>
             <div className='mb-4'>
-                <FaMapMarkedAlt className='inline-block text-green-400 mr-2'></FaMapMarkedAlt>
+                <FaMapMarkedAlt className='inline-block text-red-400 mr-2'></FaMapMarkedAlt>
                 <span>Porto Alegre, Brasil</span>
             </div>
           </div>
