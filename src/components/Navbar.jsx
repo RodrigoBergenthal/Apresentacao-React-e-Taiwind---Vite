@@ -1,4 +1,5 @@
 import React from 'react'
+import '../responsive.css'; // Importando o arquivo CSS de regras de mídia
 
 const Navbar = () => {
   return (

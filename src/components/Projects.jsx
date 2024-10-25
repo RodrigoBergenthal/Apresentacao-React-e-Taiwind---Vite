@@ -5,6 +5,7 @@ import padaria from "../assets/projeto3.png";
 import sorteador from "../assets/projeto4.png";
 import pagina from "../assets/projeto5.png";
 import disney from "../assets/projeto6.png";
+import '../responsive.css'; // Importando o arquivo CSS de regras de mídia
 
 const projects = [
   {

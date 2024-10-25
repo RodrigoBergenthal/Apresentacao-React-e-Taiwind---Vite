@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaEnvelope, FaMapMarkedAlt, FaPhone } from 'react-icons/fa'
+import '../responsive.css'; // Importando o arquivo CSS de regras de mídia
 
 const Contact = () => {
   return (

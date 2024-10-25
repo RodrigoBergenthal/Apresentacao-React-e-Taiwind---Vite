@@ -1,5 +1,6 @@
 import React from 'react'
 import HeroImage from '../assets/hero-image.png'
+import '../responsive.css'; // Importando o arquivo CSS de regras de mídia
 
 
 const Hero = () => {

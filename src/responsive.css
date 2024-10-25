@@ -1,7 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
+/* Media Query for smaller screens */
 @media (max-width: 768px) {
     .flex-wrap {
       flex-direction: column;
@@ -21,3 +18,4 @@
       font-size: 1rem;
     }
   }
+  
