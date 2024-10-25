@@ -4,7 +4,7 @@
 
 
 
-Este é um projeto de portfólio pessoal criado utilizando React, Vite e Tailwind CSS. O objetivo deste projeto é mostrar minhas habilidades em desenvolvimento web moderno, incluindo a importação de ícones, animações e componentes bem estruturados e responsabilidade mobile.
+Este é um projeto de portfólio pessoal criado utilizando React, Vite e Tailwind CSS. O objetivo deste projeto é mostrar minhas habilidades em desenvolvimento web moderno, incluindo a importação de ícones, animações e componentes bem estruturados e responsivo para dispositivos moveis.
 
 ## Estrutura do Projeto
 
