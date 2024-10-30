@@ -1,6 +1,6 @@
 # React + Vite + Tailwind CSS com animações
 
-# PUBLICADO NA VERCEL : https://rodrigobergenthal.vercel.app/
+# PUBLICADO: https://rodrigobergenthal.vercel.app/
 
 
 
